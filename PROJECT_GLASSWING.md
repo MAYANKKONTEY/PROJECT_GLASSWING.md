@@ -1,262 +1,134 @@
-# 🧵 Project Glasswing — Twitter/X Thread
+# 🦋 Project Glasswing — Anthropic's AI-Powered Cybersecurity Initiative
+
+> *Securing the world's most critical software for the AI era.*
 
 ---
 
-**1/**
-🚨 Anthropic just dropped something that changes cybersecurity FOREVER.
+## 🔍 What Is Project Glasswing?
 
-They built an AI so powerful at hacking…
-they're afraid to release it to the public.
+**Project Glasswing** is Anthropic's urgent new initiative to secure the world's most critical digital infrastructure using frontier AI. It pairs an unreleased, gated model — **Claude Mythos Preview** — with a coalition of 12 major technology and finance companies, tasked with finding and patching software vulnerabilities *before* adversaries can exploit them.
 
-Instead, they used it to secretly patch the world's most critical software.
-
-This is Project Glasswing. 🧵
+Announced: **April 8, 2026**
 
 ---
 
-**2/**
-First — what even IS critical infrastructure?
+## 🤖 The Model: Claude Mythos Preview
 
-Every major operating system.
-Every major web browser.
-The open-source software that runs banks, hospitals, governments, and the internet itself.
+Claude Mythos Preview is Anthropic's most capable model to date — and one they consider **too dangerous to release publicly.**
 
-Billions of people depend on this code every single day.
-Most of it is riddled with hidden flaws.
+### What it has already done:
+- 🚨 Identified **thousands of zero-day vulnerabilities** across every major OS and web browser
+- 🔓 Found a critical flaw in **OpenBSD** — one of the most security-hardened systems in the world — that had existed **since 1999**
+- ⚡ Demonstrated "substantial improvements" over previous models on Microsoft's open-source security benchmark, **CTI-REALM**
 
----
-
-**3/**
-Anthropic built a new model called Claude Mythos Preview.
-
-It's their most capable model ever.
-It can read, understand, and modify complex software at a level no human team can match.
-
-And that ability? It turns out — makes it an *elite* vulnerability hunter.
+> *"Its strength in cybersecurity is a direct result of broader capability: a model that can deeply understand and modify complex software is also one that can find and fix its vulnerabilities."*
+> — Anthropic
 
 ---
 
-**4/**
-Here's what Mythos Preview has already done:
+## 🤝 Launch Partners
 
-🔴 Found THOUSANDS of zero-day vulnerabilities
-🔴 In EVERY major operating system
-🔴 In EVERY major web browser
-🔴 In countless other critical codebases
+| Partner | Role |
+|---|---|
+| **Amazon Web Services** | Security operations & code hardening |
+| **Apple** | Critical software infrastructure |
+| **Broadcom** | Hardware & silicon security |
+| **Cisco** | Network infrastructure defense |
+| **CrowdStrike** | Endpoint security & threat intelligence |
+| **Google** | Vulnerability research & Vertex AI access |
+| **JPMorganChase** | Financial infrastructure security |
+| **Linux Foundation** | Open-source software security |
+| **Microsoft** | Enterprise & cloud security |
+| **NVIDIA** | AI hardware infrastructure |
+| **Palo Alto Networks** | Network & cloud security |
+| **Anthropic** | Model development & initiative lead |
 
-Zero-days = flaws the developers themselves didn't even know existed.
-
----
-
-**5/**
-One finding that broke the internet (pun intended):
-
-Mythos Preview found a critical security flaw in OpenBSD.
-
-OpenBSD is famous for being basically *unhackable.*
-It's used to run firewalls and critical infrastructure worldwide.
-
-The flaw had been sitting there, undetected…
-since **1999.**
-
-That's 26 years. 🤯
+> 40+ additional organizations have also been granted access.
 
 ---
 
-**6/**
-So here's the terrifying truth Anthropic had to face:
+## 💬 What Partners Are Saying
 
-If their AI can find all these vulnerabilities this fast —
-so can adversaries.
+> *"AI capabilities have crossed a threshold that fundamentally changes the urgency required to protect critical infrastructure from cyber threats, and there is no going back... The old ways of hardening systems are no longer sufficient."*
+> — **Cisco**
 
-State-sponsored hackers.
-Cybercriminal groups.
-Anyone who gets their hands on a model this capable.
+> *"Our teams analyze over 400 trillion network flows every day for threats. We've been testing Claude Mythos Preview in our own security operations, applying it to critical codebases, where it's already helping us strengthen our code."*
+> — **Amazon Web Services**
 
-The race to patch vs. the race to exploit had officially begun.
+> *"In the past, security expertise has been a luxury reserved for organizations with large security teams. Open-source maintainers have historically been left to figure out security on their own. Project Glasswing offers a credible path to changing that equation."*
+> — **Jim Zemlin, CEO, Linux Foundation**
 
----
-
-**7/**
-Anthropic's answer: Project Glasswing. 🦋
-
-The mission is simple and urgent:
-Use AI to find and fix the vulnerabilities BEFORE the bad guys do.
-
-Give defenders a head start.
-At a scale and speed that was previously impossible.
+> *"Claude Mythos Preview showed substantial improvements compared to previous models on our open-source security benchmark."*
+> — **Igor Tsyganskiy, Global CISO, Microsoft**
 
 ---
 
-**8/**
-They didn't do this alone.
+## 💰 Funding & Commitments
 
-Project Glasswing launched with 12 industry giants:
-
-• Amazon Web Services
-• Apple
-• Broadcom
-• Cisco
-• CrowdStrike
-• Google
-• JPMorganChase
-• Linux Foundation
-• Microsoft
-• NVIDIA
-• Palo Alto Networks
-• Anthropic
-
-Plus 40+ additional organizations quietly working behind the scenes.
+| Item | Amount |
+|---|---|
+| Model usage credits committed by Anthropic | **$100,000,000** |
+| Donations to open-source security orgs | **$4,000,000** |
+| → Alpha-Omega & OpenSSF (Linux Foundation) | $2.5M |
+| → Apache Software Foundation | $1.5M |
 
 ---
 
-**9/**
-These partners have been using Mythos Preview for WEEKS already.
+## 🔐 Access & Pricing
 
-Here's what they're saying:
+Claude Mythos Preview is available exclusively to Project Glasswing participants as a **gated research preview**.
 
-Cisco:
-"AI capabilities have crossed a threshold that fundamentally changes the urgency required to protect critical infrastructure. The old ways of hardening systems are no longer sufficient."
+| Token Type | Price |
+|---|---|
+| Input | **$25 / 1M tokens** |
+| Output | **$125 / 1M tokens** |
 
----
-
-**10/**
-AWS:
-"Our teams analyze over 400 TRILLION network flows every day for threats.
-We've been testing Mythos Preview on critical codebases — it's already helping us strengthen our code."
-
-400 trillion. Per day.
-And even THEY needed AI to keep up.
+**Available via:**
+- Claude API
+- Amazon Bedrock
+- Google Cloud Vertex AI
+- Microsoft Azure Foundry
 
 ---
 
-**11/**
-Microsoft's Global CISO ran Mythos Preview against CTI-REALM —
-their own open-source security benchmark.
+## ⚠️ The Dual-Use Challenge
 
-The result?
-"Substantial improvements compared to previous models."
+Anthropic is transparent: the same capabilities that make Mythos Preview powerful for *defense* make it dangerous in the wrong hands.
 
-This isn't marketing speak.
-This is the person responsible for securing one of the world's largest tech companies saying: this thing works.
-
----
-
-**12/**
-The Linux Foundation CEO said something that really hit different:
-
-"In the past, security expertise was a luxury reserved for organizations with large security teams.
-Open-source maintainers — whose software underpins CRITICAL INFRASTRUCTURE — have been left to figure it out alone."
-
-Project Glasswing changes that.
+Their mitigation plan:
+- Mythos Preview remains a **restricted, gated preview** — not publicly available
+- Safeguards are being developed and tested on an upcoming **Claude Opus** model first
+- A **Cyber Verification Program** is coming for security professionals whose legitimate work is affected by model restrictions
 
 ---
 
-**13/**
-The money behind this is serious.
+## 🏛️ Government Engagement
 
-💰 $100 MILLION in model usage credits committed by Anthropic
-💰 $4 MILLION in direct donations to open-source security orgs:
-  → $2.5M to Alpha-Omega & OpenSSF (Linux Foundation)
-  → $1.5M to the Apache Software Foundation
-
-This isn't a press release. It's a war chest.
+Anthropic is in active discussions with **US government officials** about Mythos Preview's offensive and defensive cyber capabilities. The company views this as a top national security priority and has called on the US and its allies to maintain a decisive lead in AI technology.
 
 ---
 
-**14/**
-Now here's the part most people are missing:
+## 🌍 Why It Matters
 
-Anthropic is NOT releasing Mythos Preview publicly.
-
-They explicitly said it's too dangerous.
-
-Access is gated. Vetted. Restricted.
-Only approved Project Glasswing partners can use it — at $25/$125 per million tokens.
-
----
-
-**15/**
-Why so restricted?
-
-Because the same capability that finds vulnerabilities…
-can also EXPLOIT them.
-
-A model this powerful in the wrong hands isn't a security tool.
-It's a cyberweapon.
-
-So they're walking a razor's edge:
-Use it for good. Keep it out of bad hands. Move fast.
+```
+The threat:     AI-augmented cyberattacks are becoming more capable and accessible.
+The reality:    Critical infrastructure (OS, browsers, open-source) has legacy vulnerabilities.
+The insight:    The same AI that finds vulnerabilities can also patch them — at unprecedented scale.
+The goal:       Give defenders a durable head start before hostile actors gain equivalent tools.
+```
 
 ---
 
-**16/**
-To manage the risk long-term, Anthropic has a plan:
+## 🔗 Resources
 
-They're building safeguards into an upcoming Claude Opus model first —
-a model that "does not pose the same level of risk as Mythos Preview."
-
-They're also launching a Cyber Verification Program
-for security professionals affected by model restrictions.
+- 🌐 [Official Project Glasswing Page](https://www.anthropic.com/project/glasswing)
+- 📄 [Anthropic Glasswing Blog Post](https://www.anthropic.com/glasswing)
+- 📰 [VentureBeat Deep Dive](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release)
+- 🛡️ [CrowdStrike on Mythos Preview](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 ---
 
-**17/**
-And it doesn't stop at tech companies.
-
-Anthropic is in active discussions with US government officials
-about Mythos Preview's offensive AND defensive capabilities.
-
-They've called it a top national security priority —
-and said the US and its allies must maintain a decisive AI lead.
-
----
-
-**18/**
-Let's zoom out for a second.
-
-This is the moment the cybersecurity world has been both dreading and hoping for.
-
-AI that can hack — also AI that can defend.
-The question was always: which side moves first?
-
-Anthropic just made a very loud, very public bet on the defenders.
-
----
-
-**19/**
-Here's the bottom line:
-
-→ The world's most critical software has thousands of hidden flaws
-→ AI is now powerful enough to find them all — fast
-→ Anthropic built that AI, called it too dangerous to release, then used it to quietly patch the internet
-→ They got AWS, Apple, Google, Microsoft & more to join them
-→ They committed $100M to make it happen
-
----
-
-**20/**
-We are living through a defining moment in the history of cybersecurity.
-
-The attack surface isn't just bigger than ever.
-The weapons are smarter than ever.
-
-But for the first time, the defenders have a frontier AI in their corner.
-
-Project Glasswing might be the most important security initiative of the decade. 🦋
-
----
-
-**21/**
-If you want to go deeper:
-
-🔗 Official page: anthropic.com/project/glasswing
-🔗 Full technical writeup: anthropic.com/glasswing
-🔗 VentureBeat deep dive: venturebeat.com
-
-Follow for more breakdowns on AI, cybersecurity, and the future being built right now. 🔁 RT if this should reach more people.
-
----
-
-*Thread by: [Your Handle]*
-*Date: April 9, 2026*
+<p align="center">
+  <i>Project Glasswing — using the most powerful AI to protect the infrastructure the world runs on.</i><br><br>
+  <b>Announced April 8, 2026 · Anthropic</b>
+</p>
