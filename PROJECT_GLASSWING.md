@@ -1,0 +1,262 @@
+# 🧵 Project Glasswing — Twitter/X Thread
+
+---
+
+**1/**
+🚨 Anthropic just dropped something that changes cybersecurity FOREVER.
+
+They built an AI so powerful at hacking…
+they're afraid to release it to the public.
+
+Instead, they used it to secretly patch the world's most critical software.
+
+This is Project Glasswing. 🧵
+
+---
+
+**2/**
+First — what even IS critical infrastructure?
+
+Every major operating system.
+Every major web browser.
+The open-source software that runs banks, hospitals, governments, and the internet itself.
+
+Billions of people depend on this code every single day.
+Most of it is riddled with hidden flaws.
+
+---
+
+**3/**
+Anthropic built a new model called Claude Mythos Preview.
+
+It's their most capable model ever.
+It can read, understand, and modify complex software at a level no human team can match.
+
+And that ability? It turns out — makes it an *elite* vulnerability hunter.
+
+---
+
+**4/**
+Here's what Mythos Preview has already done:
+
+🔴 Found THOUSANDS of zero-day vulnerabilities
+🔴 In EVERY major operating system
+🔴 In EVERY major web browser
+🔴 In countless other critical codebases
+
+Zero-days = flaws the developers themselves didn't even know existed.
+
+---
+
+**5/**
+One finding that broke the internet (pun intended):
+
+Mythos Preview found a critical security flaw in OpenBSD.
+
+OpenBSD is famous for being basically *unhackable.*
+It's used to run firewalls and critical infrastructure worldwide.
+
+The flaw had been sitting there, undetected…
+since **1999.**
+
+That's 26 years. 🤯
+
+---
+
+**6/**
+So here's the terrifying truth Anthropic had to face:
+
+If their AI can find all these vulnerabilities this fast —
+so can adversaries.
+
+State-sponsored hackers.
+Cybercriminal groups.
+Anyone who gets their hands on a model this capable.
+
+The race to patch vs. the race to exploit had officially begun.
+
+---
+
+**7/**
+Anthropic's answer: Project Glasswing. 🦋
+
+The mission is simple and urgent:
+Use AI to find and fix the vulnerabilities BEFORE the bad guys do.
+
+Give defenders a head start.
+At a scale and speed that was previously impossible.
+
+---
+
+**8/**
+They didn't do this alone.
+
+Project Glasswing launched with 12 industry giants:
+
+• Amazon Web Services
+• Apple
+• Broadcom
+• Cisco
+• CrowdStrike
+• Google
+• JPMorganChase
+• Linux Foundation
+• Microsoft
+• NVIDIA
+• Palo Alto Networks
+• Anthropic
+
+Plus 40+ additional organizations quietly working behind the scenes.
+
+---
+
+**9/**
+These partners have been using Mythos Preview for WEEKS already.
+
+Here's what they're saying:
+
+Cisco:
+"AI capabilities have crossed a threshold that fundamentally changes the urgency required to protect critical infrastructure. The old ways of hardening systems are no longer sufficient."
+
+---
+
+**10/**
+AWS:
+"Our teams analyze over 400 TRILLION network flows every day for threats.
+We've been testing Mythos Preview on critical codebases — it's already helping us strengthen our code."
+
+400 trillion. Per day.
+And even THEY needed AI to keep up.
+
+---
+
+**11/**
+Microsoft's Global CISO ran Mythos Preview against CTI-REALM —
+their own open-source security benchmark.
+
+The result?
+"Substantial improvements compared to previous models."
+
+This isn't marketing speak.
+This is the person responsible for securing one of the world's largest tech companies saying: this thing works.
+
+---
+
+**12/**
+The Linux Foundation CEO said something that really hit different:
+
+"In the past, security expertise was a luxury reserved for organizations with large security teams.
+Open-source maintainers — whose software underpins CRITICAL INFRASTRUCTURE — have been left to figure it out alone."
+
+Project Glasswing changes that.
+
+---
+
+**13/**
+The money behind this is serious.
+
+💰 $100 MILLION in model usage credits committed by Anthropic
+💰 $4 MILLION in direct donations to open-source security orgs:
+  → $2.5M to Alpha-Omega & OpenSSF (Linux Foundation)
+  → $1.5M to the Apache Software Foundation
+
+This isn't a press release. It's a war chest.
+
+---
+
+**14/**
+Now here's the part most people are missing:
+
+Anthropic is NOT releasing Mythos Preview publicly.
+
+They explicitly said it's too dangerous.
+
+Access is gated. Vetted. Restricted.
+Only approved Project Glasswing partners can use it — at $25/$125 per million tokens.
+
+---
+
+**15/**
+Why so restricted?
+
+Because the same capability that finds vulnerabilities…
+can also EXPLOIT them.
+
+A model this powerful in the wrong hands isn't a security tool.
+It's a cyberweapon.
+
+So they're walking a razor's edge:
+Use it for good. Keep it out of bad hands. Move fast.
+
+---
+
+**16/**
+To manage the risk long-term, Anthropic has a plan:
+
+They're building safeguards into an upcoming Claude Opus model first —
+a model that "does not pose the same level of risk as Mythos Preview."
+
+They're also launching a Cyber Verification Program
+for security professionals affected by model restrictions.
+
+---
+
+**17/**
+And it doesn't stop at tech companies.
+
+Anthropic is in active discussions with US government officials
+about Mythos Preview's offensive AND defensive capabilities.
+
+They've called it a top national security priority —
+and said the US and its allies must maintain a decisive AI lead.
+
+---
+
+**18/**
+Let's zoom out for a second.
+
+This is the moment the cybersecurity world has been both dreading and hoping for.
+
+AI that can hack — also AI that can defend.
+The question was always: which side moves first?
+
+Anthropic just made a very loud, very public bet on the defenders.
+
+---
+
+**19/**
+Here's the bottom line:
+
+→ The world's most critical software has thousands of hidden flaws
+→ AI is now powerful enough to find them all — fast
+→ Anthropic built that AI, called it too dangerous to release, then used it to quietly patch the internet
+→ They got AWS, Apple, Google, Microsoft & more to join them
+→ They committed $100M to make it happen
+
+---
+
+**20/**
+We are living through a defining moment in the history of cybersecurity.
+
+The attack surface isn't just bigger than ever.
+The weapons are smarter than ever.
+
+But for the first time, the defenders have a frontier AI in their corner.
+
+Project Glasswing might be the most important security initiative of the decade. 🦋
+
+---
+
+**21/**
+If you want to go deeper:
+
+🔗 Official page: anthropic.com/project/glasswing
+🔗 Full technical writeup: anthropic.com/glasswing
+🔗 VentureBeat deep dive: venturebeat.com
+
+Follow for more breakdowns on AI, cybersecurity, and the future being built right now. 🔁 RT if this should reach more people.
+
+---
+
+*Thread by: [Your Handle]*
+*Date: April 9, 2026*
